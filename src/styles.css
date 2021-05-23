@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 60%;
+  margin: auto;
+}
+
+input {
+  padding: 1rem;
+  width: 60%;
+}
+
+.output {
+  margin-top: 1rem;
+  font-size: 180%;
+  color: navy;
+  font-weight: bold;
+  padding: 1rem;
+}
+
+.emoji-dic {
+  margin: 5rem 2rem;
+}
